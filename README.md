@@ -6,7 +6,5 @@ Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-
-
 Inline-style: 
 ![alt text](https://uoneduau-my.sharepoint.com/:v:/g/personal/c3297407_uon_edu_au/EWT4B72ad55HltG7VVKnmqQBivCYWAw_wO8szhIsXc4V7Q?e=C9U1cS "Video for performance comparison")
