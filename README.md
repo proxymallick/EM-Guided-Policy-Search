@@ -5,6 +5,7 @@ Guided policy search algorithms have proved to work with incredible accuracy for
     * Robust numerical implementation of EM which has been extensively used in system identification and extend it towards learning and generalization of optimal control for unseen initial conditions.
     * Efficient exploitation of the highly
 uncertain explored state space, which is analytically quantified from the theoretical analysis of the covariance matrix.
+    * Promising sample efficiency and good success of generalization from multiple testing instances
 
 [Video Link for Performance comparison](https://uoneduau-my.sharepoint.com/:v:/g/personal/c3297407_uon_edu_au/EWT4B72ad55HltG7VVKnmqQBivCYWAw_wO8szhIsXc4V7Q?e=C9U1cS)
 
