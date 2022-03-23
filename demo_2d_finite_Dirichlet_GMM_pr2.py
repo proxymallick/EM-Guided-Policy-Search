@@ -1,6 +1,6 @@
 '''
  Author: Prakash Mallick <prakash.mallick@uon.edu.au> 
-
+ A changed code
  This code was edited and adapted to higher dimensional case for use in the Expectation Maximization based controller search
  by using the basic routine by Thierry Guillemot >
  '''
