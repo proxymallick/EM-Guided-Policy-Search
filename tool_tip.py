@@ -6,6 +6,9 @@ df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plo
 
 app = dash.Dash(__name__)
 
+
+
+import numpy as np
 app.layout = dash_table.DataTable(
     id='table',
     columns=[{"name": i, "id": i} for i in df.columns],
