@@ -92,4 +92,5 @@ app.layout = dash_table.DataTable(
 )
 
 if __name__=='__main__':
+    #### Added couple of lines
     app.run_server(debug=True)
