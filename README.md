@@ -9,7 +9,7 @@ uncertain explored state space, which is analytically quantified from the theore
     * Promising sample efficiency and good success of generalization from multiple testing instances
 
 ![example GIF](Door_opening.gif)
-<img src="Door_opening.gif" width="400" height="300" />
+
 ![example GIF](peg_in_hole.gif)
 
 [Accepted Paper](https://arxiv.org/pdf/2010.00304.pdf)
