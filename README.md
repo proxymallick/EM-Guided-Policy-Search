@@ -10,7 +10,7 @@ uncertain explored state space, which is analytically quantified from the theore
 
 ![example GIF](Door_opening.gif)
 
-![example GIF](peg_in_hole.gif)
+![example GIF](both_peg.gif)
 
 [Accepted Paper](https://arxiv.org/pdf/2010.00304.pdf)
 [Video Link for Performance comparison](https://uoneduau-my.sharepoint.com/:v:/g/personal/c3297407_uon_edu_au/EWT4B72ad55HltG7VVKnmqQBivCYWAw_wO8szhIsXc4V7Q?e=C9U1cS)
