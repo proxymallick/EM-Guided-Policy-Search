@@ -13,7 +13,7 @@ uncertain explored state space, which is analytically quantified from the theore
 Related Papers
 --------------
 - [Paper 1](https://www.sciencedirect.com/science/article/abs/pii/S0925231221015794) - P. Mallick, Z. Chen, and M. Zamani.
-- [Paper 2](https://ieeexplore.ieee.org/document/9836999) - P. Mallick, Z. Chen, and M. Zamani.
+- [Paper 2](https://ieeexplore.ieee.org/document/9836999) - P. Mallick and Z. Chen
 
 
 
