@@ -9,7 +9,11 @@ uncertain explored state space, which is analytically quantified from the theore
     * Promising sample efficiency and good success of generalization from multiple testing instances
 
 ![example GIF](ezgif.com-video-to-gif.gif)
-[Accepted Paper](https://arxiv.org/pdf/2010.00304.pdf)
-[Video Link for Performance comparison](https://uoneduau-my.sharepoint.com/:v:/g/personal/c3297407_uon_edu_au/EWT4B72ad55HltG7VVKnmqQBivCYWAw_wO8szhIsXc4V7Q?e=C9U1cS)
+
+Related Papers
+--------------
+- [Paper 1](https://www.sciencedirect.com/science/article/abs/pii/S0925231221015794) - P. Mallick, Z. Chen, and M. Zamani.
+- [Paper 2](https://example.com/paper2](https://ieeexplore.ieee.org/document/9836999) - P. Mallick and Z. Chen.
+
 
 
